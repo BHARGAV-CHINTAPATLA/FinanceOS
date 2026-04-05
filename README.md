@@ -289,7 +289,3 @@ The dataset ships with **65 transactions** across Jan–Jun 2024, covering all 1
 - **No authentication** — RBAC is purely UI-level; the role switcher is openly accessible by design.
 
 ---
-
-## License
-
-This project was submitted as an assignment for **Zorvyn Inc**. All rights reserved.
